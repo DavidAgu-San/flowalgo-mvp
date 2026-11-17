@@ -1,0 +1,201 @@
+scenario_id,category,difficulty,persona,condition,accuracy,decision_detection,understanding,trace_accuracy,hallucinations,confidence
+S001,University Processes,easy,Marcus,control,85.71428571428571,100.0,97,100.0,0,6
+S034,IT Help Desk,medium,Marcus,control,100.0,100.0,98,100.0,0,6
+S021,HR,hard,Marcus,flowalgo,100.0,100.0,95,100.0,0,6
+S014,Supply Chain,medium,Marcus,control,100.0,100.0,99,100.0,0,6
+S044,Healthcare,hard,Tiana,control,100.0,100.0,99,100.0,0,6
+S036,Healthcare,medium,Marcus,flowalgo,100.0,100.0,91,100.0,1,6
+S003,Banking,easy,Marcus,flowalgo,100.0,100.0,99,100.0,0,6
+S028,Healthcare,easy,Marcus,control,100.0,100.0,99,100.0,0,6
+S010,IT Help Desk,medium,Marcus,control,100.0,100.0,96,100.0,0,6
+S039,Internships,medium,Marcus,flowalgo,100.0,100.0,100,100.0,0,6
+S010,IT Help Desk,medium,Marcus,flowalgo,100.0,100.0,93,100.0,0,6
+S035,Banking,medium,Tiana,control,100.0,100.0,97,100.0,0,7
+S001,University Processes,easy,Tiana,control,100.0,100.0,99,100.0,0,7
+S002,IT Help Desk,easy,Tiana,flowalgo,100.0,100.0,100,100.0,0,7
+S028,Healthcare,easy,Tiana,flowalgo,100.0,100.0,100,100.0,0,6
+S038,Supply Chain,medium,Tiana,flowalgo,100.0,100.0,97,100.0,1,7
+S043,Banking,hard,Marcus,flowalgo,100.0,100.0,91,100.0,0,6
+S046,Supply Chain,hard,Tiana,control,100.0,100.0,96,100.0,0,7
+S014,Supply Chain,medium,Marcus,flowalgo,100.0,100.0,100,100.0,0,6
+S013,HR,medium,Marcus,flowalgo,100.0,100.0,99,100.0,0,7
+S050,IT Help Desk,easy,Marcus,control,100.0,100.0,96,100.0,1,7
+S009,University Processes,medium,Tiana,control,90.0,100.0,95,100.0,1,8
+S002,IT Help Desk,easy,Marcus,flowalgo,100.0,100.0,100,100.0,0,7
+S023,Internships,hard,Marcus,control,100.0,100.0,100,100.0,0,6
+S028,Healthcare,easy,Tiana,control,100.0,100.0,100,100.0,0,7
+S011,Banking,medium,Marcus,flowalgo,100.0,100.0,100,100.0,0,6
+S011,Banking,medium,Marcus,control,100.0,100.0,98,100.0,0,6
+S009,University Processes,medium,Tiana,flowalgo,100.0,100.0,98,0.0,0,8
+S050,IT Help Desk,easy,Tiana,control,100.0,100.0,93,100.0,2,7
+S039,Internships,medium,Tiana,control,100.0,100.0,100,100.0,0,7
+S009,University Processes,medium,Marcus,flowalgo,100.0,100.0,100,100.0,0,7
+S042,IT Help Desk,hard,Marcus,control,100.0,100.0,87,100.0,0,6
+S023,Internships,hard,Tiana,control,100.0,100.0,98,100.0,1,7
+S042,IT Help Desk,hard,Marcus,flowalgo,100.0,100.0,96,100.0,0,6
+S017,University Processes,hard,Marcus,control,100.0,100.0,97,100.0,0,7
+S041,University Processes,hard,Tiana,flowalgo,100.0,100.0,89,100.0,0,6
+S038,Supply Chain,medium,Marcus,control,88.88888888888889,100.0,93,100.0,1,6
+S040,Cybersecurity,medium,Tiana,flowalgo,100.0,100.0,98,100.0,1,7
+S022,Supply Chain,hard,Tiana,flowalgo,100.0,100.0,96,100.0,1,7
+S048,Cybersecurity,hard,Tiana,control,100.0,100.0,87,100.0,0,7
+S031,Internships,easy,Tiana,flowalgo,100.0,100.0,100,100.0,0,7
+S002,IT Help Desk,easy,Marcus,control,100.0,100.0,99,100.0,0,6
+S012,Healthcare,medium,Marcus,flowalgo,100.0,100.0,97,100.0,0,6
+S040,Cybersecurity,medium,Tiana,control,100.0,100.0,99,100.0,0,7
+S027,Banking,easy,Marcus,flowalgo,100.0,100.0,96,100.0,2,6
+S008,Cybersecurity,easy,Tiana,control,100.0,100.0,100,100.0,0,7
+S021,HR,hard,Tiana,control,100.0,100.0,91,100.0,0,7
+S024,Cybersecurity,hard,Tiana,flowalgo,100.0,100.0,97,100.0,0,7
+S036,Healthcare,medium,Tiana,flowalgo,100.0,100.0,90,50.0,1,6
+S009,University Processes,medium,Marcus,control,100.0,100.0,88,50.0,1,6
+S010,IT Help Desk,medium,Tiana,flowalgo,100.0,100.0,92,100.0,0,6
+S034,IT Help Desk,medium,Marcus,flowalgo,100.0,100.0,95,100.0,1,6
+S026,IT Help Desk,easy,Marcus,control,100.0,100.0,94,100.0,1,6
+S044,Healthcare,hard,Tiana,flowalgo,100.0,100.0,99,100.0,0,7
+S037,HR,medium,Tiana,flowalgo,100.0,100.0,96,100.0,1,6
+S041,University Processes,hard,Marcus,flowalgo,100.0,100.0,92,100.0,1,6
+S042,IT Help Desk,hard,Tiana,control,100.0,100.0,95,100.0,0,6
+S027,Banking,easy,Marcus,control,100.0,100.0,97,100.0,1,7
+S007,Internships,easy,Tiana,control,100.0,100.0,100,100.0,0,7
+S019,Banking,hard,Tiana,flowalgo,100.0,100.0,99,100.0,0,7
+S033,University Processes,medium,Tiana,flowalgo,100.0,100.0,98,100.0,0,7
+S032,Cybersecurity,easy,Marcus,flowalgo,100.0,100.0,100,100.0,0,7
+S045,HR,hard,Tiana,control,100.0,100.0,98,100.0,0,7
+S011,Banking,medium,Tiana,flowalgo,100.0,100.0,98,100.0,1,7
+S026,IT Help Desk,easy,Tiana,flowalgo,100.0,100.0,97,100.0,0,6
+S045,HR,hard,Tiana,flowalgo,100.0,100.0,100,100.0,0,6
+S006,Supply Chain,easy,Tiana,control,100.0,100.0,98,100.0,0,7
+S020,Healthcare,hard,Tiana,flowalgo,100.0,100.0,98,100.0,0,7
+S044,Healthcare,hard,Marcus,control,100.0,100.0,99,100.0,0,6
+S027,Banking,easy,Tiana,control,100.0,100.0,99,100.0,0,7
+S025,University Processes,easy,Marcus,flowalgo,100.0,100.0,97,100.0,1,6
+S047,Internships,hard,Tiana,flowalgo,100.0,100.0,93,100.0,0,7
+S035,Banking,medium,Marcus,control,100.0,100.0,98,100.0,0,7
+S020,Healthcare,hard,Tiana,control,100.0,100.0,94,100.0,0,7
+S013,HR,medium,Tiana,flowalgo,100.0,100.0,100,100.0,0,7
+S007,Internships,easy,Tiana,flowalgo,100.0,100.0,100,100.0,0,8
+S017,University Processes,hard,Tiana,flowalgo,100.0,100.0,98,100.0,0,7
+S049,University Processes,easy,Marcus,flowalgo,100.0,100.0,98,100.0,0,5
+S022,Supply Chain,hard,Marcus,flowalgo,100.0,100.0,99,100.0,0,6
+S030,Supply Chain,easy,Tiana,flowalgo,100.0,100.0,97,100.0,0,6
+S002,IT Help Desk,easy,Tiana,control,100.0,100.0,99,50.0,0,7
+S015,Internships,medium,Tiana,control,100.0,100.0,99,100.0,0,7
+S043,Banking,hard,Tiana,control,100.0,100.0,87,100.0,0,6
+S016,Cybersecurity,medium,Marcus,control,100.0,100.0,100,100.0,0,7
+S020,Healthcare,hard,Marcus,flowalgo,100.0,100.0,94,100.0,1,7
+S016,Cybersecurity,medium,Marcus,flowalgo,100.0,100.0,83,0.0,2,6
+S047,Internships,hard,Marcus,control,90.0,100.0,91,100.0,0,7
+S050,IT Help Desk,easy,Tiana,flowalgo,100.0,100.0,93,50.0,2,7
+S012,Healthcare,medium,Tiana,flowalgo,100.0,100.0,98,100.0,0,7
+S001,University Processes,easy,Tiana,flowalgo,100.0,100.0,96,100.0,1,6
+S015,Internships,medium,Marcus,flowalgo,100.0,100.0,96,100.0,1,6
+S041,University Processes,hard,Marcus,control,100.0,100.0,95,100.0,0,7
+S045,HR,hard,Marcus,flowalgo,100.0,100.0,99,100.0,0,6
+S029,HR,easy,Marcus,control,100.0,100.0,96,100.0,1,6
+S006,Supply Chain,easy,Marcus,control,100.0,100.0,100,100.0,0,6
+S032,Cybersecurity,easy,Marcus,control,100.0,100.0,97,100.0,0,6
+S033,University Processes,medium,Tiana,control,100.0,100.0,98,100.0,0,7
+S030,Supply Chain,easy,Tiana,control,100.0,100.0,98,100.0,1,7
+S049,University Processes,easy,Marcus,control,100.0,100.0,94,100.0,1,6
+S017,University Processes,hard,Marcus,flowalgo,100.0,100.0,97,100.0,0,7
+S047,Internships,hard,Marcus,flowalgo,100.0,100.0,82,50.0,2,6
+S022,Supply Chain,hard,Marcus,control,100.0,100.0,100,100.0,0,6
+S045,HR,hard,Marcus,control,100.0,100.0,99,100.0,0,6
+S032,Cybersecurity,easy,Tiana,flowalgo,100.0,100.0,100,100.0,0,7
+S024,Cybersecurity,hard,Tiana,control,100.0,100.0,95,100.0,0,7
+S038,Supply Chain,medium,Marcus,flowalgo,100.0,100.0,99,100.0,0,6
+S021,HR,hard,Marcus,control,100.0,100.0,92,100.0,0,6
+S027,Banking,easy,Tiana,flowalgo,100.0,100.0,95,100.0,0,6
+S043,Banking,hard,Marcus,control,100.0,100.0,84,100.0,2,6
+S007,Internships,easy,Marcus,flowalgo,100.0,100.0,100,100.0,0,6
+S010,IT Help Desk,medium,Tiana,control,100.0,100.0,99,50.0,1,7
+S001,University Processes,easy,Marcus,flowalgo,100.0,100.0,97,100.0,1,7
+S023,Internships,hard,Tiana,flowalgo,100.0,100.0,100,100.0,0,7
+S035,Banking,medium,Marcus,flowalgo,100.0,100.0,90,100.0,1,6
+S048,Cybersecurity,hard,Marcus,flowalgo,100.0,100.0,97,100.0,0,7
+S004,Healthcare,easy,Tiana,flowalgo,100.0,100.0,98,100.0,0,7
+S021,HR,hard,Tiana,flowalgo,100.0,100.0,93,100.0,0,7
+S005,HR,easy,Marcus,flowalgo,100.0,100.0,99,100.0,0,6
+S007,Internships,easy,Marcus,control,100.0,100.0,96,50.0,0,7
+S028,Healthcare,easy,Marcus,flowalgo,100.0,100.0,100,100.0,0,6
+S019,Banking,hard,Marcus,flowalgo,100.0,100.0,99,100.0,0,6
+S026,IT Help Desk,easy,Tiana,control,100.0,100.0,96,100.0,0,7
+S037,HR,medium,Marcus,flowalgo,100.0,100.0,99,100.0,0,6
+S039,Internships,medium,Tiana,flowalgo,100.0,100.0,98,100.0,1,7
+S049,University Processes,easy,Tiana,flowalgo,100.0,100.0,96,100.0,1,7
+S047,Internships,hard,Tiana,control,90.0,100.0,96,100.0,0,7
+S041,University Processes,hard,Tiana,control,100.0,100.0,99,100.0,0,7
+S035,Banking,medium,Tiana,flowalgo,100.0,100.0,92,100.0,1,6
+S016,Cybersecurity,medium,Tiana,control,100.0,100.0,98,100.0,0,7
+S005,HR,easy,Marcus,control,100.0,100.0,100,100.0,0,6
+S026,IT Help Desk,easy,Marcus,flowalgo,100.0,100.0,99,100.0,0,7
+S017,University Processes,hard,Tiana,control,100.0,100.0,93,100.0,1,7
+S029,HR,easy,Tiana,control,100.0,100.0,100,100.0,0,7
+S029,HR,easy,Tiana,flowalgo,100.0,100.0,100,100.0,0,7
+S015,Internships,medium,Marcus,control,100.0,100.0,99,100.0,1,6
+S037,HR,medium,Marcus,control,100.0,100.0,88,100.0,2,6
+S046,Supply Chain,hard,Marcus,control,100.0,100.0,96,100.0,2,7
+S015,Internships,medium,Tiana,flowalgo,100.0,100.0,98,100.0,0,6
+S008,Cybersecurity,easy,Marcus,flowalgo,100.0,100.0,100,100.0,0,7
+S031,Internships,easy,Marcus,control,100.0,100.0,99,100.0,1,6
+S036,Healthcare,medium,Marcus,control,100.0,100.0,92,50.0,2,6
+S016,Cybersecurity,medium,Tiana,flowalgo,100.0,100.0,93,100.0,1,6
+S040,Cybersecurity,medium,Marcus,control,100.0,100.0,100,100.0,0,6
+S034,IT Help Desk,medium,Tiana,control,100.0,100.0,98,100.0,0,7
+S019,Banking,hard,Marcus,control,100.0,100.0,97,100.0,1,7
+S004,Healthcare,easy,Marcus,control,100.0,100.0,68,0.0,2,6
+S018,IT Help Desk,hard,Marcus,control,100.0,100.0,95,100.0,0,6
+S020,Healthcare,hard,Marcus,control,100.0,100.0,85,100.0,0,6
+S048,Cybersecurity,hard,Marcus,control,100.0,100.0,97,100.0,0,6
+S046,Supply Chain,hard,Tiana,flowalgo,100.0,100.0,95,100.0,0,7
+S039,Internships,medium,Marcus,control,100.0,100.0,98,100.0,0,6
+S024,Cybersecurity,hard,Marcus,control,100.0,100.0,99,100.0,0,6
+S013,HR,medium,Tiana,control,100.0,100.0,100,100.0,0,7
+S025,University Processes,easy,Tiana,control,100.0,100.0,100,100.0,0,7
+S022,Supply Chain,hard,Tiana,control,100.0,100.0,100,100.0,0,6
+S031,Internships,easy,Tiana,control,100.0,100.0,99,100.0,0,7
+S018,IT Help Desk,hard,Tiana,flowalgo,100.0,100.0,91,100.0,1,6
+S014,Supply Chain,medium,Tiana,control,100.0,100.0,98,100.0,0,6
+S037,HR,medium,Tiana,control,100.0,100.0,94,100.0,1,6
+S012,Healthcare,medium,Marcus,control,100.0,100.0,94,100.0,0,6
+S038,Supply Chain,medium,Tiana,control,100.0,100.0,99,100.0,0,7
+S011,Banking,medium,Tiana,control,100.0,100.0,99,100.0,0,7
+S042,IT Help Desk,hard,Tiana,flowalgo,100.0,100.0,94,100.0,1,6
+S006,Supply Chain,easy,Tiana,flowalgo,100.0,100.0,98,100.0,0,7
+S018,IT Help Desk,hard,Tiana,control,100.0,100.0,99,100.0,0,7
+S030,Supply Chain,easy,Marcus,control,100.0,100.0,100,100.0,0,6
+S034,IT Help Desk,medium,Tiana,flowalgo,100.0,100.0,100,100.0,0,7
+S050,IT Help Desk,easy,Marcus,flowalgo,100.0,100.0,100,100.0,0,7
+S048,Cybersecurity,hard,Tiana,flowalgo,100.0,100.0,98,100.0,0,6
+S025,University Processes,easy,Tiana,flowalgo,100.0,100.0,98,100.0,0,7
+S040,Cybersecurity,medium,Marcus,flowalgo,100.0,100.0,96,100.0,0,6
+S049,University Processes,easy,Tiana,control,100.0,100.0,98,100.0,1,7
+S033,University Processes,medium,Marcus,control,100.0,100.0,98,100.0,0,7
+S033,University Processes,medium,Marcus,flowalgo,100.0,100.0,99,100.0,0,6
+S030,Supply Chain,easy,Marcus,flowalgo,100.0,100.0,99,100.0,0,6
+S025,University Processes,easy,Marcus,control,85.71428571428571,100.0,97,100.0,0,7
+S014,Supply Chain,medium,Tiana,flowalgo,100.0,100.0,100,100.0,0,7
+S003,Banking,easy,Tiana,flowalgo,100.0,100.0,100,100.0,0,7
+S008,Cybersecurity,easy,Marcus,control,100.0,100.0,100,100.0,0,6
+S005,HR,easy,Tiana,flowalgo,100.0,100.0,99,100.0,0,7
+S029,HR,easy,Marcus,flowalgo,100.0,100.0,95,100.0,0,6
+S018,IT Help Desk,hard,Marcus,flowalgo,100.0,100.0,83,100.0,1,6
+S008,Cybersecurity,easy,Tiana,flowalgo,100.0,100.0,100,100.0,0,7
+S043,Banking,hard,Tiana,flowalgo,100.0,100.0,84,100.0,1,8
+S004,Healthcare,easy,Marcus,flowalgo,100.0,100.0,82,0.0,3,5
+S005,HR,easy,Tiana,control,87.5,100.0,98,100.0,0,7
+S006,Supply Chain,easy,Marcus,flowalgo,100.0,100.0,99,100.0,1,6
+S023,Internships,hard,Marcus,flowalgo,100.0,100.0,99,100.0,0,6
+S019,Banking,hard,Tiana,control,100.0,100.0,100,100.0,0,6
+S003,Banking,easy,Tiana,control,100.0,100.0,99,100.0,0,7
+S024,Cybersecurity,hard,Marcus,flowalgo,100.0,100.0,97,100.0,0,6
+S013,HR,medium,Marcus,control,100.0,100.0,100,100.0,0,7
+S031,Internships,easy,Marcus,flowalgo,100.0,100.0,100,100.0,0,6
+S003,Banking,easy,Marcus,control,100.0,100.0,100,100.0,0,6
+S032,Cybersecurity,easy,Tiana,control,100.0,100.0,100,100.0,0,7
+S004,Healthcare,easy,Tiana,control,100.0,100.0,97,100.0,1,7
+S044,Healthcare,hard,Marcus,flowalgo,100.0,100.0,99,100.0,0,7
+S046,Supply Chain,hard,Marcus,flowalgo,100.0,100.0,90,100.0,0,6
+S036,Healthcare,medium,Tiana,control,100.0,100.0,96,100.0,0,7
+S012,Healthcare,medium,Tiana,control,100.0,100.0,96,100.0,1,6
